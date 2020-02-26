@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Media Player</string>
+    <string name="song" translatable="false">Art of Silence</string>
+    <string name="artist_name" translatable="false">Uniq</string>
+</resources>
